@@ -1,5 +1,7 @@
 # eCommerce Platform
 > eCommerce platform built with the MERN stack & Redux.
+Live Demo: https://ecommerce-duyet.herokuapp.com/
+
 ### Env Variables
 
 Create a .env file in then root and add the following
